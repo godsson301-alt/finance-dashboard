@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 34.0,
+        "category": "shoes",
+        "type": "Expense",
+        "date": "2026-06-19 16:55"
+    },
+    {
+        "amount": 15.0,
+        "category": "socks",
+        "type": "Expense",
+        "date": "2026-06-19 16:55"
+    },
+    {
+        "amount": 1400.0,
+        "category": "mortgae",
+        "type": "Expense",
+        "date": "2026-06-19 16:56"
+    },
+    {
+        "amount": 20000.0,
+        "category": "job1",
+        "type": "Income",
+        "date": "2026-06-20 12:44"
+    },
+    {
+        "amount": 8000.0,
+        "category": "cake",
+        "type": "Expense",
+        "date": "2026-06-20 12:59"
+    }
+]
